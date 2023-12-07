@@ -1,0 +1,13 @@
+{
+    "require": {
+        
+        "phpmailer/phpmailer": "^6.8",
+        "psr/log": "^3.0",
+        "myvendor/mypackage": "^1.0"
+    },
+    "config": {
+        "allow-plugins": {
+            "kylekatarnls/update-helper": true
+        }
+    }
+}
